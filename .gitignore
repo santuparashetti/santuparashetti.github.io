@@ -7,6 +7,10 @@ _site
 .DS_Store
 Thumbs.db
 ehthumbs.db
+node_modules
+npm-debug.log*
+package-lock.json
+codekit-config.json
 
 Gemfile.lock
 
